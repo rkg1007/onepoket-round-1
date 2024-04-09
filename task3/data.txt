@@ -1,0 +1,1 @@
+This is sample data text file. Counts of words in this file is 14.
