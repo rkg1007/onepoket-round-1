@@ -7,7 +7,7 @@
 
 ### Steps to follow :-
 
-1. First clone this repository using command `git clone `
+1. First clone this repository using command `git clone https://github.com/rkg1007/onepoket-round-1.git`
 2. Navigate into project folder in the terminal.
 3. Install all necessary dependencies using command `npm install`.
 4. Fire the command `npm start` to start the server.
